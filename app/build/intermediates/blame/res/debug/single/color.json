@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\08d8e8a43b3d6257ea5bd28c2120c693ad5404c6\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\2a62e68ceede87a254dfd5795ca67e4a2cba115e\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\2a62e68ceede87a254dfd5795ca67e4a2cba115e\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\08d8e8a43b3d6257ea5bd28c2120c693ad5404c6\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\color\\abc_tint_default.xml"
+    }
+]

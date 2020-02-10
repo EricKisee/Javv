@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eric\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\AndroidStudioProjects\Javv\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_57094b6af17d78ffea72f4dfb43626d20b53f17f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProjects\Javv\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\AndroidStudioProjects\Javv\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_275d6826a76c28438cd92186040e0fd9aca2517d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProjects\Javv\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="84a4bc7dc73fe063785b391844f63489676703c7">
+        <dex dex="E:\AndroidStudioProjects\Javv\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f3b0c74408a3cb6b5ee2fc3463c6525079af41aa\classes.dex" />
+    </item>
+
+</items>

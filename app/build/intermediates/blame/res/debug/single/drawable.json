@@ -1,0 +1,678 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_a_photo_white_18dp.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_add_a_photo_white_18dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\firebase_lockup_400.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\firebase_lockup_400.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_person_white.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_person_white.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\2a62e68ceede87a254dfd5795ca67e4a2cba115e\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\location.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble2.9.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\bubble2.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preview_rounded_border.xml",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\preview_rounded_border.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble1.9.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\bubble1.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_pratikshya.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\user_pratikshya.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\505b3eff18cd5dc617c14fe01f3ba919680e5247\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\2a62e68ceede87a254dfd5795ca67e4a2cba115e\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_question_answer_white_18dp.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_question_answer_white_18dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unfollow_user.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\unfollow_user.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_photo_camera_black_48dp.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_photo_camera_black_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_explore2.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\tab_icon_explore2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\2a62e68ceede87a254dfd5795ca67e4a2cba115e\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_featured_play_list_white_24dp.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_featured_play_list_white_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_cover_default.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\profile_cover_default.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\send.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mms_white_48pt_3x.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_mms_white_48pt_3x.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_send_button.xml",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\chat_send_button.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_white_18dp.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_list_white_18dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_story2.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\tab_icon_story2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\go.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\go.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_send_white_48dp.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_send_white_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\follow_user.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\follow_user.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_person_outline_white_48pt_3x.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_person_outline_white_48pt_3x.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\2a62e68ceede87a254dfd5795ca67e4a2cba115e\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_bg1.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\arrow_bg1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bus.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\bus.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_javv2.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\tab_icon_javv2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_videocam_black_48dp.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_videocam_black_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_profile.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\tab_icon_profile.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_search2.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\tab_icon_search2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_javv.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\tab_icon_javv.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_rounded_corner.xml",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\chat_rounded_corner.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_bg2.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\arrow_bg2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_white_72pt_3x.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_list_white_72pt_3x.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_story.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\tab_icon_story.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_navigation_white_48pt_3x.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_navigation_white_48pt_3x.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_profile2.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\tab_icon_profile2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_directions_bus_white_48pt_3x.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_directions_bus_white_48pt_3x.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_videocam_white_48pt_3x.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_videocam_white_48pt_3x.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_account_box_white_48pt_3x.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_account_box_white_48pt_3x.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chat_white_48pt_3x.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_chat_white_48pt_3x.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\secret.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\secret.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cancel_white_48pt.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_cancel_white_48pt.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_pacific.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\user_pacific.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_rounded_corner1.xml",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\chat_rounded_corner1.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bus2.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\bus2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_selected.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\send_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_photo_camera_white_48dp.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_photo_camera_white_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_white_48dp.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\ic_search_white_48dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1290100bd99da6d5d1b8b423a5f0f79acfa9f21a\\output\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\6cbf84484260ea7960caa8c57b4577f5f6e8b1e8\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\1ed5a7483e875063a5f3aeea51a6eda41f6c506b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_explore.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\tab_icon_explore.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_search.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\tab_icon_search.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_circular_border_imageview.xml",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\drawable\\profile_circular_border_imageview.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\2a62e68ceede87a254dfd5795ca67e4a2cba115e\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\Eric\\.android\\build-cache\\9e6fc796bce5b72d1f1280855fca68496bb00dc3\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    }
+]

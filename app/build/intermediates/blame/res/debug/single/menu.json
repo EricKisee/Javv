@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_search.xml",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\menu\\menu_search.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main2.xml",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\menu\\menu_main2.xml"
+    }
+]

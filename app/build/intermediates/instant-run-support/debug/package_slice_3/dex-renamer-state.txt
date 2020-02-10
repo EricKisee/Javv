@@ -1,0 +1,4 @@
+#Thu Mar 16 20:33:07 EAT 2017
+base.0=E\:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+renamed.0=classes.dex
+file.0=E\:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex

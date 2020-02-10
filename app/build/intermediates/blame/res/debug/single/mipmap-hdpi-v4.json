@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_flash_off_white_24dp.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\mipmap-hdpi\\ic_flash_off_white_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_cached_white_24dp.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\mipmap-hdpi\\ic_cached_white_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_flash_auto_white_24dp.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\mipmap-hdpi\\ic_flash_auto_white_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Javv\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\Javv\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

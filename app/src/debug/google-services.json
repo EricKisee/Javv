@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "149367104492",
+    "firebase_url": "https://javv-10814.firebaseio.com",
+    "project_id": "javv-10814",
+    "storage_bucket": "javv-10814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149367104492:android:88b0332d62d5f811",
+        "android_client_info": {
+          "package_name": "com.craptordevelopers.javv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149367104492-jhivccjo0trpvbbe2mbll3a7lhu7gq4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.craptordevelopers.javv",
+            "certificate_hash": "c7a94300becd83649e2e5ce4158a0be97822f9d4"
+          }
+        },
+        {
+          "client_id": "149367104492-emgbaa7jvcj09jh6qmp42a3lei7f54qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC23drgfxukQkJ87D6zOX5Uha6qSN3Q_qQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149367104492-emgbaa7jvcj09jh6qmp42a3lei7f54qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
